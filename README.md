@@ -6,7 +6,7 @@ Para reutilizar este código a gusto sólo se deben reemplazar los archivos ***.
 Si lo usás para alguna broma o le das un uso serio, aprecio que me cuentes la experiencia.
 **Saludos, Andrés.**
 
-## ING
+## ENG
 I created this program at the request of a friend. The functionality is to play audio tracks randomly while running in the background.
 Specifically, the job included an audio library related to Boca Juniors and its football folklore, so the icon had to be *that*.
 
